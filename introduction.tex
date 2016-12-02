@@ -1,0 +1,35 @@
+\chapter{Introduction}
+Currently, there is no way to accurately track a mobile device’s position in a given space without the use of GPS or WiFi.
+This means that people who are interested in understanding where they currently are in relationship to other people or landmarks and do
+not have access to these technologies are not able to get accurate location information.
+While most people with modern smartphones do have nearly unlimited access to GPS and WiFi, this does not necessarily exclude them
+from the group of people who are affected by this issue.  In many cases, GPS and WiFi fail to provide the fine grain accuracy required
+to provide useful information.  Within a building GPS and WiFi can be unreliable because their physical signature is fundamentally not
+designed to address the need for indoor or finely tuned positioning. This can cause the distance and elevation that GPS reports back to
+lose accuracy. It cannot determine what floor you’re on so if you’re on the second floor or the ninth floor, you would show up in the
+same location. In terms of distance, it could show you at least several meters off from your real world location.
+
+\section{Motivation}
+
+Best case scenario, GPS will get someone to the door of a building they are looking for, but after that the person is on their own once
+inside of that building. Due to their design, GPS and WiFi cannot help you determine your location once inside a building in many cases,
+especially if the building has multiple floors. Often times stores and campuses provide physical maps for visitors. For a physical map
+however, there is no map for finding the map. To use the map, a person physically has to move to it to view where they are. Also, if
+there is a single map for all visitors, then a person can’t carry it with them once they head for their destination. This means people
+can get lost on the way to their destination after leaving the map. Other current solutions try to solve this issue with proximity
+detection technology. The problem here is that proximity based systems can only tell a person how close they are relative to something;
+it doesn’t give information on the direction or elevation of whatever the person may be looking for. This can cause people to waste time
+figuring out what direction they need to head in or even put them a floor above or below their destination.
+
+\section{Solution}
+
+The solution being proposed
+is a software layer that utilizes existing bluetooth hardware to create a highly accurate relative positioning system.
+The software layer will utilize a variety of algorithms to interpret the relative signal strength of known bluetooth transmitters
+and will be able to return a useful, three dimensional, representation of where a smartphone or other bluetooth device is.
+The ability to understand the location of a device in two or three dimensions as opposed to the proximity of a device in one
+dimension allows for an exponential increase in the possible applications for such a positioning framework.  Additionally,
+the ability to navigate using a smartphone indoors vastly improves the currently nondigital solution of central physical maps
+that are currently in use in many large buildings.  The proposed framework offers a software solution that will be cheap and
+highly distributable due to the fact that is utilizes existing technologies.  This means the framework will be able to support a
+wide variety of applications without needing to wait around for the next breakthrough spectrum standard in positioning technology.
