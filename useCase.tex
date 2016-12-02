@@ -1,0 +1,34 @@
+\chapter{Use Cases}
+Displays the use case diagram and the description of each. The purpose is to define tasks an actor will perform to achieve a certain goal.
+\includegraphics[width=1\textwidth]{images/useCaseSD.png}
+\caption{Use Case Diagram}
+1.
+\begin{itemize}
+\item Name: Install and Document Beacon Data
+\item Goal: To install and load location and other info about bluetooth beacons
+\item Actors: Admin/Technician
+\item Preconditions:Bluetooth beacons must be placed and initialized
+\item Steps: Location and other information is stored into a database
+\item Post-conditions: Database will have bluetooth beacon data loaded
+\item Exceptions: Information uploaded is incorrect
+\end{itemize}
+2.
+\begin{itemize}
+\item Name: Use Framework for Precise Relative Location
+\item Goal: To use framework to help application to discover the device's precise relative location
+\item Actors: Developer
+\item Preconditions:Framework must be loaded
+\item Steps: Developer writes code to utilize framework
+\item Post-conditions: Application will be able to discover the device's precise relative location
+\item Exceptions: Framework isn't loaded or used properly
+\end{itemize}
+3.
+\begin{itemize}
+\item Name: Use Application to Find Precise Relative Location
+\item Goal: To use application to discover the device's precise relative location
+\item Actors: End User
+\item Preconditions:Application must be downloaded
+\item Steps: User opens and uses application
+\item Post-conditions: End User will be able to discover the device's precise relative location
+\item Exceptions: Application isn't downloaded or used properly
+\end{itemize}
