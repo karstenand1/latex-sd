@@ -1,0 +1,10 @@
+\chapter{Design Rationale}
+Programming Languages:
+Swift is a modern and well supported language that will provide both the native support necessary and the robustness and optimization to support heavy parallel computation as well as the mathematical algorithms that require a large amount of customization and testing.
+
+HTML, CSS, Javascript, PHP, and mySQL are all industry standard and well tested and documented.  This makes them the obvious choice to implement the web interface for the admin portal.
+\newline
+Architecture:
+Building the framework on top of the existing CoreLocation framework in iOS provides a level of abstraction to developers who want to use precise location services without needing to know the details of that hardware system is providing the data.  While conceptually the framework is built on top of CoreLocation, in practice it would be more accurate to say it extends CL.  This means that developers who do want to fine tune the way they use the BLE Positioning Framework will be able to do so.  
+
+Hosting the configuration portal for the system as a web service provided over the Internet have potential drawbacks (needing an Internet connection at some points limits certain geographical regions).  However, the initial positioning data of given beacon sets needs to be stored somewhere, and a central web server is much safer than a distributed system which leans more heavily on the competence of the end user.

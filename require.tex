@@ -1,0 +1,38 @@
+\chapter{Requirements}
+
+\section{Functional Requirements}
+Below are the initial requirements that were decided when the project was proposed.
+\newline
+
+Critical:
+\begin{itemize}
+\item The system will return a location when 3+ beacons are available
+\item The system will be able to interpret BLE beacon noise levels to produce a precise location
+\item The system will give more accurate location data than GPS or WiFi in specific situations
+\end{itemize}
+Recommended:
+\begin{itemize}
+\item Offline installation of system does not undermine its usability for devs and admins
+\end{itemize}
+
+\section{Non-Functional Requirements}
+
+Critical:
+\begin{itemize}
+\item The framework is easy to use for developers
+\item The framework will return location coordinates with an security between 0m and 5m
+\item The system will scale to large applications
+\end{itemize}
+Recommended:
+\begin{itemize}
+\item Admin interface is easy to use
+\item Framework is optimized for battery conservations
+\end{itemize}
+
+\section{Design Constraints}
+
+\begin{itemize}
+\item System must work on iOS
+\item Must use low cost BLE beacons
+\item System conforms to iBeacon protocol
+\end{itemize}
