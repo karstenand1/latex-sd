@@ -1,17 +1,17 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 JUN 2017 17:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  6 JUN 2017 11:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **master.tex
 (./master.tex
-LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (./scu-thesis.cls
 Document Class: scu-thesis 2013/10/01 SCU Thesis class
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/report.cls
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -27,7 +27,7 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 \@margintop=\skip43
@@ -40,31 +40,31 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 \c@@departmentcount=\count90
 \c@@itemcount=\count91
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 96.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count92
@@ -90,7 +90,7 @@ LaTeX Font Info:    ... okay on input line 25.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
 
-(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count93
 \scratchdimen=\dimen105
@@ -103,52 +103,50 @@ LaTeX Font Info:    ... okay on input line 25.
 \MPnumerator=\count97
 \makeMPintoPDFobject=\count98
 \everyMPtoPDFconversion=\toks16
-) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -160,7 +158,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2]
 \openout2 = `abstract.aux'.
 
@@ -175,24 +173,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--7
 
 [3
 
-]) (./master.toc)
+])
+\openout2 = `ack.aux'.
+
+ (./ack.tex
+Chapter 1.
+) [4
+
+
+
+] (./master.toc)
 \tf@toc=\write3
 \openout3 = `master.toc'.
 
- [4
+ [5
 
 
 ] (./master.lof)
 \tf@lof=\write4
 \openout4 = `master.lof'.
 
- [5
+ [6
 
 ]
 \openout2 = `introduction.aux'.
 
  (./introduction.tex
-Chapter 1.
+Chapter 2.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -218,7 +225,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--40
  []
 
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 43.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -228,8 +235,8 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 
 
 (./useCase.tex
-Chapter 2.
-<images/useCaseSD.png, id=32, 593.21625pt x 294.09875pt>
+Chapter 3.
+<images/useCaseSD.png, id=35, 593.21625pt x 294.09875pt>
 File: images/useCaseSD.png Graphic file (type png)
 
 <use images/useCaseSD.png>
@@ -241,7 +248,7 @@ Package pdftex.def Info: images/useCaseSD.png used on input line 5.
 \openout2 = `tech.aux'.
 
  (./tech.tex
-Chapter 3.
+Chapter 4.
 Missing character: There is no Â in font cmr10!
 Missing character: There is no   in font cmr10!
 Missing character: There is no Â in font cmr10!
@@ -250,7 +257,7 @@ Missing character: There is no Â in font cmr10!
 Missing character: There is no   in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no   in font cmr10!
-<images/arch.png, id=41, 1084.05pt x 614.295pt>
+<images/arch.png, id=44, 1084.05pt x 614.295pt>
 File: images/arch.png Graphic file (type png)
  <use images/arch.png>
 Package pdftex.def Info: images/arch.png used on input line 30.
@@ -272,7 +279,7 @@ Package pdftex.def Info: images/arch.png used on input line 30.
 \openout2 = `framework.aux'.
 
  (./framework.tex
-<images/tri.png, id=53, 1003.75pt x 998.73125pt>
+<images/tri.png, id=56, 1003.75pt x 998.73125pt>
 File: images/tri.png Graphic file (type png)
  <use images/tri.png>
 Package pdftex.def Info: images/tri.png used on input line 6.
@@ -281,7 +288,7 @@ Package pdftex.def Info: images/tri.png used on input line 6.
 \openout2 = `test.aux'.
 
  (./test.tex
-Chapter 4.
+Chapter 5.
 ) [10
 
 
@@ -292,7 +299,7 @@ Chapter 4.
 \openout2 = `risk.aux'.
 
  (./risk.tex
-Chapter 5.
+Chapter 6.
 Missing character: There is no Â in font cmr10!
 Missing character: There is no   in font cmr10!
 Missing character: There is no Â in font cmr10!
@@ -315,7 +322,7 @@ h-out hav-ing to start from scratch.Additionally,
 \openout2 = `ethic.aux'.
 
  (./ethic.tex
-Chapter 6.
+Chapter 7.
 [12
 
 
@@ -324,7 +331,12 @@ Chapter 6.
 \openout2 = `conclusion.aux'.
 
  (./conclusion.tex
-Chapter 7.
+Chapter 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+
+ []
+
 ) [14
 
 
@@ -334,13 +346,13 @@ Chapter 7.
 
  (./appendix.tex
 Appendix A.
-<images/con1.png, id=74, 2007.5pt x 2007.5pt>
+<images/con1.png, id=77, 2007.5pt x 2007.5pt>
 File: images/con1.png Graphic file (type png)
  <use images/con1.png>
 Package pdftex.def Info: images/con1.png used on input line 9.
 (pdftex.def)             Requested size: 433.62003pt x 433.59517pt.
 
-<images/con2.png, id=75, 2007.5pt x 2007.5pt>
+<images/con2.png, id=78, 2007.5pt x 2007.5pt>
 File: images/con2.png Graphic file (type png)
  <use images/con2.png>
 Package pdftex.def Info: images/con2.png used on input line 14.
@@ -351,26 +363,26 @@ Package pdftex.def Info: images/con2.png used on input line 14.
 
 ]
 [16 <./images/con1.png>] [17 <./images/con2.png>] (./master.aux (./abstract.aux
-) (./introduction.aux) (./useCase.aux) (./tech.aux) (./admin.aux)
+) (./ack.aux) (./introduction.aux) (./useCase.aux) (./tech.aux) (./admin.aux)
 (./framework.aux) (./test.aux) (./risk.aux) (./ethic.aux) (./conclusion.aux)
 (./appendix.aux)) ) 
 Here is how much of TeX's memory you used:
- 1712 strings out of 492995
- 24541 string characters out of 6132704
- 89697 words of memory out of 5000000
- 5184 multiletter control sequences out of 15000+600000
+ 1712 strings out of 493014
+ 24484 string characters out of 6133351
+ 88992 words of memory out of 5000000
+ 5169 multiletter control sequences out of 15000+600000
  6370 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,6n,25p,734b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
+ 37i,6n,23p,734b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb>
-Output written on master.pdf (22 pages, 5857811 bytes).
+Output written on master.pdf (23 pages, 5888541 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
+ 105 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
