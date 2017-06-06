@@ -10,6 +10,7 @@
 \contentsline {section}{\numberline {3.2}Architectural Diagram}{7}
 \contentsline {section}{\numberline {3.3}Admin}{8}
 \contentsline {section}{\numberline {3.4}Framework}{9}
+\contentsline {subsection}{\numberline {3.4.1}Trilateration}{9}
 \contentsline {chapter}{\numberline {4}Testing and Results}{10}
 \contentsline {chapter}{\numberline {5}Project Management}{11}
 \contentsline {section}{\numberline {5.1}Risk Analysis}{11}
@@ -30,6 +31,6 @@
 \contentsline {section}{\numberline {7.1}Summary}{14}
 \contentsline {section}{\numberline {7.2}Lessons Learned}{14}
 \contentsline {section}{\numberline {7.3}Future Improvements}{14}
-\contentsline {section}{\numberline {.1}\\Title of Appendix A}{15}
-\contentsline {section}{\numberline {.2}\\Title of Appendix B}{15}
-\contentsline {chapter}{\numberline {A}Conceptual Model}{17}
+\contentsline {chapter}{\numberline {A}Design and Implementation Appendix}{15}
+\contentsline {section}{\numberline {A.1}Admin Portal}{15}
+\contentsline {section}{\numberline {A.2}Framework}{15}

@@ -1,1 +1,8 @@
+\begin{figure}
 \section{Framework}
+Once a system has been configured by an administrator using the admin portal discussed in the previous section, the BLE Location framework is available for developers to use in their Apps.  The following two sections will discuss the underlying algorithm used by the BLE Location framework, as well as the methods exposed to developers using the framework.
+\subsection{Trilateration}
+Trilateration is the process of using a device's known distance from three set locations to determine the point in space where that device currently is.  This algorithm is what enables the device to determine where it is relative to the set of iBeacons it currently can see.  These iBeacons broadcast information about where they are located, and the device can implicitly determine its distance from the iBeacon.  In the figure below, P1, P2, and P3 represent iBeacons, at set locations in their respective coordinate planes.  Like the iBeacons, each point has three dimensions defining its location.  In the figure below, all points are located on the same plane in the Z dimension for simplicity.\\
+\includegraphics[width=.55\textwidth]{images/tri.png}
+\caption{Trilateration In Two Demensions}
+\end{figure}
