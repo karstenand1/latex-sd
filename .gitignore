@@ -8,3 +8,5 @@ master.synctex.gz
 .DS_Store
 
 images/.DS_Store
+
+*.aux
