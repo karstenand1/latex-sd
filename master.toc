@@ -11,30 +11,34 @@
 \contentsline {section}{\numberline {4.2}Architectural Diagram}{7}
 \contentsline {section}{\numberline {4.3}Admin}{8}
 \contentsline {subsection}{\numberline {4.3.1}Front End}{8}
-\contentsline {subsection}{\numberline {4.3.2}Back End}{8}
-\contentsline {section}{\numberline {4.4}Framework}{9}
-\contentsline {subsection}{\numberline {4.4.1}Trilateration}{9}
-\contentsline {subsection}{\numberline {4.4.2}BLE Location Framework for Developers}{10}
-\contentsline {chapter}{\numberline {5}Testing and Results}{13}
-\contentsline {chapter}{\numberline {6}Project Management}{14}
-\contentsline {section}{\numberline {6.1}Risk Analysis}{14}
-\contentsline {section}{\numberline {6.2}Development Timeline}{14}
-\contentsline {chapter}{\numberline {7}Ethical Analysis}{15}
-\contentsline {section}{\numberline {7.1}Ethical}{15}
-\contentsline {section}{\numberline {7.2}Social}{15}
-\contentsline {section}{\numberline {7.3}Political}{15}
-\contentsline {section}{\numberline {7.4}Economic}{15}
-\contentsline {section}{\numberline {7.5}Health and Safety}{15}
-\contentsline {section}{\numberline {7.6}Manufacturability}{16}
-\contentsline {section}{\numberline {7.7}Sustainability}{16}
-\contentsline {section}{\numberline {7.8}Environmental Impact}{16}
-\contentsline {section}{\numberline {7.9}Usability}{16}
-\contentsline {section}{\numberline {7.10}Lifelong learning}{16}
-\contentsline {section}{\numberline {7.11}Compassion}{16}
-\contentsline {chapter}{\numberline {8}Conclusion}{17}
-\contentsline {section}{\numberline {8.1}Summary}{17}
-\contentsline {section}{\numberline {8.2}Lessons Learned}{17}
-\contentsline {section}{\numberline {8.3}Future Improvements}{17}
-\contentsline {chapter}{\numberline {A}Design and Implementation Appendix}{18}
-\contentsline {section}{\numberline {A.1}Admin Portal}{18}
-\contentsline {section}{\numberline {A.2}Framework}{18}
+\contentsline {subsection}{\numberline {4.3.2}Back End}{9}
+\contentsline {section}{\numberline {4.4}Framework}{10}
+\contentsline {subsection}{\numberline {4.4.1}Trilateration}{10}
+\contentsline {subsection}{\numberline {4.4.2}BLE Location Framework for Developers}{11}
+\contentsline {chapter}{\numberline {5}Testing and Results}{14}
+\contentsline {chapter}{\numberline {6}Project Management}{15}
+\contentsline {section}{\numberline {6.1}Risk Analysis}{15}
+\contentsline {section}{\numberline {6.2}Development Timeline}{15}
+\contentsline {chapter}{\numberline {7}Ethical Analysis}{16}
+\contentsline {section}{\numberline {7.1}Ethical}{16}
+\contentsline {section}{\numberline {7.2}Social}{16}
+\contentsline {section}{\numberline {7.3}Political}{16}
+\contentsline {section}{\numberline {7.4}Economic}{16}
+\contentsline {section}{\numberline {7.5}Health and Safety}{16}
+\contentsline {section}{\numberline {7.6}Manufacturability}{17}
+\contentsline {section}{\numberline {7.7}Sustainability}{17}
+\contentsline {section}{\numberline {7.8}Environmental Impact}{17}
+\contentsline {section}{\numberline {7.9}Usability}{17}
+\contentsline {section}{\numberline {7.10}Lifelong learning}{17}
+\contentsline {section}{\numberline {7.11}Compassion}{17}
+\contentsline {chapter}{\numberline {8}Conclusion}{18}
+\contentsline {section}{\numberline {8.1}Summary}{18}
+\contentsline {section}{\numberline {8.2}Lessons Learned}{18}
+\contentsline {section}{\numberline {8.3}Future Improvements}{19}
+\contentsline {chapter}{\numberline {A}Design and Implementation Appendix}{20}
+\contentsline {section}{\numberline {A.1}Admin Portal}{20}
+\contentsline {subsection}{\numberline {A.1.1}Example JSON Code}{23}
+\contentsline {section}{\numberline {A.2}Framework}{23}
+\contentsline {chapter}{\numberline {B}Project Management Appendix}{24}
+\contentsline {section}{\numberline {B.1}Risk Analysis}{24}
+\contentsline {section}{\numberline {B.2}Gantt Chart}{25}

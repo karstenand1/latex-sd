@@ -4,14 +4,18 @@
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Use Case Diagram}}{4}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces Architectural Diagram}}{7}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Trilateration In Two Demensions}}{9}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Simple Trilateration Algorithm}}{10}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Example location driven app using GPS (left) and BLE Location (right)}}{11}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces An example of how to add the BLE Location Framework to an empty iOS project}}{12}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Home Page of Admin Portal}}{8}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Trilateration In Two Demensions}}{10}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Simple Trilateration Algorithm}}{11}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Example location driven app using GPS (left) and BLE Location (right)}}{12}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces An example of how to add the BLE Location Framework to an empty iOS project}}{13}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Discovering Beacons View}}{19}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Location View}}{20}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Edit page of Admin Portal}}{20}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces View page of Admin Portal}}{21}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Geo Calibration page of Admin Portal}}{22}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Gantt Chart}}{25}
