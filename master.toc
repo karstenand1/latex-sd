@@ -16,25 +16,25 @@
 \contentsline {subsection}{\numberline {4.4.1}Trilateration}{10}
 \contentsline {subsection}{\numberline {4.4.2}BLE Location Framework for Developers}{11}
 \contentsline {chapter}{\numberline {5}Testing and Results}{15}
-\contentsline {chapter}{\numberline {6}Project Management}{17}
-\contentsline {section}{\numberline {6.1}Risk Analysis}{17}
-\contentsline {section}{\numberline {6.2}Development Timeline}{17}
-\contentsline {chapter}{\numberline {7}Ethical Analysis}{18}
-\contentsline {section}{\numberline {7.1}Ethical}{18}
-\contentsline {section}{\numberline {7.2}Social}{18}
-\contentsline {section}{\numberline {7.3}Political}{18}
-\contentsline {section}{\numberline {7.4}Economic}{18}
-\contentsline {section}{\numberline {7.5}Health and Safety}{18}
-\contentsline {section}{\numberline {7.6}Manufacturability}{19}
-\contentsline {section}{\numberline {7.7}Sustainability}{19}
-\contentsline {section}{\numberline {7.8}Environmental Impact}{19}
-\contentsline {section}{\numberline {7.9}Usability}{19}
-\contentsline {section}{\numberline {7.10}Lifelong learning}{19}
-\contentsline {section}{\numberline {7.11}Compassion}{19}
-\contentsline {chapter}{\numberline {8}Conclusion}{20}
-\contentsline {section}{\numberline {8.1}Summary}{20}
-\contentsline {section}{\numberline {8.2}Lessons Learned}{20}
-\contentsline {section}{\numberline {8.3}Future Improvements}{21}
-\contentsline {chapter}{\numberline {A}Design and Implementation Appendix}{22}
-\contentsline {section}{\numberline {A.1}Admin Portal}{22}
-\contentsline {section}{\numberline {A.2}Framework}{22}
+\contentsline {chapter}{\numberline {6}Project Management}{18}
+\contentsline {section}{\numberline {6.1}Risk Analysis}{18}
+\contentsline {section}{\numberline {6.2}Development Timeline}{18}
+\contentsline {chapter}{\numberline {7}Ethical Analysis}{19}
+\contentsline {section}{\numberline {7.1}Ethical}{19}
+\contentsline {section}{\numberline {7.2}Social}{19}
+\contentsline {section}{\numberline {7.3}Political}{19}
+\contentsline {section}{\numberline {7.4}Economic}{19}
+\contentsline {section}{\numberline {7.5}Health and Safety}{19}
+\contentsline {section}{\numberline {7.6}Manufacturability}{20}
+\contentsline {section}{\numberline {7.7}Sustainability}{20}
+\contentsline {section}{\numberline {7.8}Environmental Impact}{20}
+\contentsline {section}{\numberline {7.9}Usability}{20}
+\contentsline {section}{\numberline {7.10}Lifelong learning}{20}
+\contentsline {section}{\numberline {7.11}Compassion}{20}
+\contentsline {chapter}{\numberline {8}Conclusion}{21}
+\contentsline {section}{\numberline {8.1}Summary}{21}
+\contentsline {section}{\numberline {8.2}Lessons Learned}{21}
+\contentsline {section}{\numberline {8.3}Future Improvements}{22}
+\contentsline {chapter}{\numberline {A}Design and Implementation Appendix}{23}
+\contentsline {section}{\numberline {A.1}Admin Portal}{23}
+\contentsline {section}{\numberline {A.2}Framework}{23}
