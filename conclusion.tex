@@ -14,3 +14,18 @@ highly distributable due to the fact that it utilizes existing technologies.
 \section{Lessons Learned}
 
 \section{Future Improvements}
+
+This section sets out to look toward the future and understand how our solution fits in.
+
+\subsection{Scale Matters}
+With Bluetooth Low Energy Beacons, there is no one size fits all solution for filling a building. Buildings with more open floor plans will more easily accommodate
+these beacons and our algorithms because the signal will propagate off walls less. In a narrow room, a lot of noice will be created making it much harder for the real signal to be distinguished from the rest.
+Another problem is how easily the signal is absorbed by the human body. The system can return a different value for location if there are too many people between the iBeacons and the device. Finally, there is no definite number for the amount of iBeacons
+needed to fill a floor plan. Although there is the general rule of more being better, there is no definite answer to how many beacons the system really needs.
+
+\subsection{Do Not Force It}
+Although Bluetooth Low Energy beacons have been shown to be able to return a position for an indoor positioning system, it does not do it well enough
+to be a complete solution. Instead of forcing iBeacons to be the answer and using the software side to correct their shortcomings, a new hardware solution
+would be a much better answer to this problem. The hardware could use a better frequency that allows for better frequency analysis but still possibly use
+a similar protocol to the iBeacon protocol to allow for ease of use. Instead of trying to force hardware to work with software solutions, this problem should be conquered
+by a hardware solution.
