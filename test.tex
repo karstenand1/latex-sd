@@ -1,19 +1,22 @@
 \chapter{Testing and Results}
-\begin{itemize}
-\item
-Unit Testing: Most testing will be done by our developers using manual white box testing. Automated testing will not be used because it would not give us the desired results and will take as much time setting up as it would do to just test manually.
+Much of this project revolved around testing of the capability of Bluetooth Low Energy, iBeacon, iPhone and the feasibility of using these technologies in tandem to crate a positioning system that could perform with useful accuracy.  As mentioned in 4.4.1, most of the testing and calibration was done in two dimensions.  This was accomplished by using a large printed grid for testing in a smaller area, and measured distances in a large room for testing on a larger scale.  In order to determine the feasibility of the iBeacons for location tracking, it was important to determine the accuracy with which the distance between the iOS device and the iBeacon could be determined.  This distance is derived from the Received Signal Strength Indicator (RSSI) value which is measured in decibels.  In order to understand how effectively the RSSI can be translated into a measure of distance, we build a testing App that could record a variety of data about different RSSI values, and export them for further analysis.  A screenshot of this testing App can be seen in Appendix C.
 
-	We will start off with General Feature Testing wherein we will code a particular feature and test it for it's functionality. As the Unit Testing model recommends, every time we write a new feature, we will test it for its functionality ensuring minimization of errors.
-    This method will help us break our system into smaller, more manageable parts, the testing of which will be relatively simpler. It will also help us make these small parts ready to be used as a part of the bigger system.
-\end{itemize}
+One of the questions that needed answering for this project was which type of iBeacons would be sufficient for the system.  The main factor to consider is the broadcast power of the iBeacon.  In order to see what effect power had on the relationship between RSSI and distance from the beacon, we placed a series of beacons at known locations.  We then recorded the relationship between RSSI and distance at a variety of locations for a set of low powered beacons and then again with higher powered ones.  These relationships are visually displayed in the figures below.
 
-\begin{itemize}
-\item Regression Testing: As we will progress with the development of the system, we will begin implementing Regression Tests on top of the general feature testing. Unlike what we will do in Unit Testing, in Regression Testing we will write and test a particular feature and test the system. Once everything works fine, we will add the next feature and then retest the system from the beginning, instead of just testing the new feature.
+\begin{figure}[h]
+\includegraphics[width=.85\textwidth]{images/Oltica.png}
+\caption{RSSI v. distance - low powered beacon}
+\vspace{1em}
+Figure 5.1 shows that the relationship between RSSI and distance is meaningful up to about two meters away from the low powered beacon.
+\end{figure}
 
-Simply put, regression testing is testing the system in its entirety every time a change or addition is made to it to make sure the already implemented features are not be affected by the new features in an undesirable way.
+\begin{figure}[h]
+\includegraphics[width=.85\textwidth]{images/Estimote.png}
+\caption{RSSI v. distance - high powered beacon}
+\vspace{1em}
+Figure 5.2 shows that the relationship between RSSI and distance is meaningful up to about four meters away from the higher powered beacon.
+\end{figure}
 
-Regression testing will help us efficiently manage our system whenever a change will be made.
-\end{itemize}
-\begin{itemize}
-\item Ad hoc Testing: Ad hoc testing is performed without a plan of action. It will be performed by improvisation where the testers will find bugs by any means that seemed appropriate. Ad hoc tests will help us spot out any strange bugs that could arise in the operation of the system.
-\end{itemize}
+These tests of the RSSI values revealed that a set of higher powered beacon would be necessary to cover any significantly large area.  However, it should be noted that while these measurements of distance represent the r values used in the trilateration algorithm described in 4.4.1, when considering usable coverage of the beacon in the system, that value should be doubled.  This is because the area of coverage is represented by the diameter of the usable broadcast circle.  This is due to the omnidirectional nature of the BLE antenna on most iBeacon broadcast devices.
+
+The iBeacon broadcast packet contains not only the RSSI value but also unique identifiers that allows the BLE Location framework to associate each signal with a known beacon location.  Assuming a device is within the meaningful broadcast range of three or more beacons, this associated set of locations, combined with the translated RSSI values, provides enough information to the framework for it to make an estimation of location.  This location is relative to the coordinate plane defined during the configuration stage, but can be translated back into latitude and longitude using conversion factors provided by the framework API.  By placing beacons at known locations, and moving iOS devices running the test application we were able to get a feel for the general accuracy of the system when using low powered beacons, or higher powered ones.

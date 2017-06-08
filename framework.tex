@@ -36,3 +36,5 @@ Figure X.X illustrates how the BLE Location framework could be added to a projec
 \includegraphics[width=1\textwidth]{images/code.png}
 \caption{An example of how to add the BLE Location Framework to an empty iOS project}
 \end{figure}
+
+The framework is designed to work with the administrative and configuration portal documented in section 4.3.  The primary role of this admin portal is to serve information about the location and metadata of iBeacons to the framework.  The data format for the communication between the framework and portal can be found in Appendix A.  Once the framework is added to a project as seen above, and connected to the admin API as seen on line 15 of Figure X.X the framework will manage the local storage of the iBeacon data.  Once the BLE Manager has started monitoring, the different delegate protocol methods will be fired by the framework as they are triggered.  For example, once an active device comes within range of a configured group of iBeacons, the BLEAvailabilityDidChange function will fire and pass a true value.
