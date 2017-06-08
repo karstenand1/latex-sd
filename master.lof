@@ -5,10 +5,13 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces Architectural Diagram}}{7}
 \contentsline {figure}{\numberline {4.2}{\ignorespaces Trilateration In Two Demensions}}{9}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Simple Trilateration Algorithm}}{10}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Example location driven app using GPS (left) and BLE Location (right)}}{11}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces An example of how to add the BLE Location Framework to an empty iOS project}}{12}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Discovering Beacons View}}{16}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Location View}}{17}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Discovering Beacons View}}{19}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Location View}}{20}
