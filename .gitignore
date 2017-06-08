@@ -4,3 +4,7 @@ master.synctex.gz
 master.log
 
 master.synctex.gz
+
+.DS_Store
+
+images/.DS_Store
